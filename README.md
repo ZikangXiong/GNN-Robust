@@ -2,4 +2,4 @@
 
 Verifiable robustness to structure perturbation with abstract interperation. 
 
-See [this slide]() with more details.  
+See [this slide](presentation.pdf) with more details.  
