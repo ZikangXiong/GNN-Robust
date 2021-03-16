@@ -1,0 +1,10 @@
+,dataset,budgets,cert,uncert,not_sure
+0,citeseer,"(1, 1)",91,9,0
+1,citeseer,"(5, 3)",79,14,7
+2,citeseer,"(10, 5)",75,15,10
+3,cora_ml,"(1, 1)",78,20,2
+4,cora_ml,"(5, 3)",39,36,25
+5,cora_ml,"(10, 5)",17,38,46
+6,pubmed,"(1, 1)",74,24,2
+7,pubmed,"(5, 3)",49,44,7
+8,pubmed,"(10, 5)",46,49,5
